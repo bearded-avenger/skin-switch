@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-    var templateurl = '/wp-content/themes/spitzer';
+    var templateurl = skin.path;
 
 	var styleswitcherstr = ' \
 	<div id="switch-flip"><a class="style-switcher-close"></a></div> \
